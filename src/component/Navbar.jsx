@@ -3,7 +3,7 @@ import logo from "../../public/assets/unnamed.png";
 function Navbar() {
   return (
     <nav
-      className="bg-secondary rounded-full absolute top-0 left-0 right-0 shadow z-50 mx-4 mt-6 sm:mx-16 lg:mx-24 md:mx-22 sm:mt-12"
+      className="bg-secondary rounded-full absolute top-0 left-0 right-0 shadow z-50 mx-4 mt-6 sm:mx-16 lg:mx-24 md:mx-22sm:mt-12"
       style={{ height: "92px" }}
     >
       <div className="mx-auto px-4 sm:px-6 lg:px-8 h-full">
